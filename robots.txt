@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://giecse.github.io/TEp/sitemap.TEp.gz
